@@ -6,10 +6,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/jennie-zhou-12951a2b7" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30px" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/jenniezhou/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" width="30px" />
-</a>
+[<img align="left" alt="JennieZhou | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JennieZhou | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/jenniezhou/
+[linkedin]: https://linkedin.com/in/jenniezhou1
