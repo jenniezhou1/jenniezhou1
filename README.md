@@ -5,6 +5,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [Wellnest Web Application](https://github.com/emmalin-7/wellnest)
 - [Discord WeatherBot](https://github.com/jenniezhou1/WeatherBot)
 - [Discord MemeBot](https://github.com/jenniezhou1/MemeBot)
 
