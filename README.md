@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jennie! <br/><a href="https://github.com/jenniezhou1">Programmer</a></h1>
 
-<h2> 💌 View my Website:</h2>
+<h2> 💌 View my Portfolio:</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
