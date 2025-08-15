@@ -3,7 +3,9 @@
 <h2> 💌 View my Portfolio:</h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+
 - [Discord MemeBot](https://github.com/jenniezhou1/MemeBot)
+
 
 <h2> 🤳 Connect with me:</h2>
 
