@@ -4,6 +4,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- [Discord WeatherBot](https://github.com/jenniezhou1/WeatherBot)
 - [Discord MemeBot](https://github.com/jenniezhou1/MemeBot)
 
 
